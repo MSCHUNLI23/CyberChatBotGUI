@@ -1,3 +1,4 @@
+[![.NET Build](https://github.com/MSCHUNLI23/CyberChatBotGUI/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MSCHUNLI23/CyberChatBotGUI/actions/workflows/dotnet.yml)
 # Cybersecurity Awareness Chatbot
 
 A comprehensive WPF-based cybersecurity education application that helps users learn about online safety through interactive conversations, voice greetings, ASCII art visualization, and personalized memory features.
